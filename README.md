@@ -1,1 +1,2 @@
-i am student. my name is katya. tuday is tuesday
+#лабораторные работы по программированию
+##семестр1
