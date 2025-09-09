@@ -1,3 +1,3 @@
 # лабораторные работы по программированию
 [сайт](<https://pstu.ru/> "ПНИПУ")
-![img] (https://i.pinimg.com/originals/f5/87/59/f587593dcef6e65a6d9d898869d30232.jpg)
+![img] (https://i.pinimg.com/originals/c0/2d/11/c02d11b807f28927def41b6346cb6da0.jpg)
