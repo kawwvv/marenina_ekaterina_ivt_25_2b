@@ -1,1 +1,1 @@
-# marenina_ekaterina_ivt_25_2b
+i am student. my name is katya. tuday is tuesday
